@@ -1,0 +1,14 @@
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\bin\Debug\net8.0\ejercico_GarciaNatalia.exe
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\bin\Debug\net8.0\ejercico_GarciaNatalia.deps.json
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\bin\Debug\net8.0\ejercico_GarciaNatalia.runtimeconfig.json
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\bin\Debug\net8.0\ejercico_GarciaNatalia.dll
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\bin\Debug\net8.0\ejercico_GarciaNatalia.pdb
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ejercico_GarciaNatalia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ejercico_GarciaNatalia.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ejercico_GarciaNatalia.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ejercico_GarciaNatalia.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ejercico_GarciaNatalia.dll
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\refint\ejercico_GarciaNatalia.dll
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ejercico_GarciaNatalia.pdb
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ejercico_GarciaNatalia.genruntimeconfig.cache
+C:\Users\Natalia\Desktop\DAW\PROGRAMACIÓN\exercici_MP03UF1AC2_GarciaNatalia\obj\Debug\net8.0\ref\ejercico_GarciaNatalia.dll
